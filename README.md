@@ -7,3 +7,4 @@ The RAM is a 32kB 62256 type static RAM. The memory is divided into four banks. 
 
 <img src="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander/blob/main/Rev.%200/pictures/6763_Hyper_Expander_Cartridge.JPG" width="300" alt="VIC-20 Hyper Expander">
 
+The calculated BOM value is: 12.86€ (12.12.2020)
