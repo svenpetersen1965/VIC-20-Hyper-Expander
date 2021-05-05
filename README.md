@@ -7,5 +7,5 @@ The RAM od two 32kB 62256 type static RAMs. The memory is divided into seven ban
 
 <img src="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander/blob/main/Rev.%201/pictures/8161_-_Hyper_Expander_Cartridge.JPG" width="300" alt="VIC-20 Hyper Expander">
 
-The calculated BOM value of Rev. 0 is: 12.86€ (12.12.2020)
-The calculated BOM value of Rev. 1 is: 15.23€ (11.04.2021)
+* The calculated BOM value of Rev. 0 is: 12.86€ (12.12.2020)
+* The calculated BOM value of Rev. 1 is: 15.23€ (11.04.2021)
