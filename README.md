@@ -5,7 +5,9 @@ The Hyper Expander can hold up to two 27C512 EPROMs, the 8k memory bank of both 
 
 The RAM od two 32kB 62256 type static RAMs. The memory is divided into seven banks. Two 74LS148s decodes the active chip selects to one of each memory bank. The used chip selects can be configured with JP5 and JP4.
 
-<img src="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander/blob/main/Rev.%201/pictures/8161_-_Hyper_Expander_Cartridge.JPG" width="300" alt="VIC-20 Hyper Expander">
+<img src="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander/blob/main/Rev.%202/pictures/9386_-_Hyper_Expander_v2_standard.JPG" width="300" alt="VIC-20 Hyper Expander">
 
+The BOM values do not incluse a case
 * The calculated BOM value of Rev. 0 is: 12.86€ (12.12.2020)
 * The calculated BOM value of Rev. 1 is: 15.23€ (11.04.2021)
+* The calculated BOM value of Rev. 2 is: 16.17€ (02.11.2021)
