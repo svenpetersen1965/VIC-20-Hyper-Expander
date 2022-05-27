@@ -11,3 +11,9 @@ The BOM values do not include a case
 * The calculated BOM value of Rev. 0 is: 12.86€ (12.12.2020)
 * The calculated BOM value of Rev. 1 is: 15.23€ (11.04.2021)
 * The calculated BOM value of Rev. 2 is: 16.17€ (02.11.2021)
+
+# RAM issues
+I was recently reported (May 2022), that there were cross-link issues with the Alliance 45ns and 55ns RAMs. I believe, that those might be too fast and that it is not an issue of the brand. Replacing those RAMs with slower models (70ns) has solved this problem. A friend has successfully used 100ns and 120ns RAMs as well (he had built a couple of the Hyper Expander). I am mainly using 70ns and 80ns RAMs and never found any issues with them. At least, my test software can recognize those problems.
+
+<img src="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander/blob/main/Rev.%202/pictures/HypEx_badRAM.jpg" width="300" alt="45ns RAM issue">
+
