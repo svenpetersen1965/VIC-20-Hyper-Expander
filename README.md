@@ -17,3 +17,5 @@ I was recently reported (May 2022), that there were cross-link issues with the A
 
 <img src="https://github.com/svenpetersen1965/VIC-20-Hyper-Expander/blob/main/Rev.%202/pictures/HypEx_badRAM.jpg" width="300" alt="45ns RAM issue">
 
+# Testsoftware
+Find the Testsoftware here: https://github.com/svenpetersen1965/VIC-20-RAM-Expansion-Test-Software
